@@ -127,9 +127,11 @@
 									<a href="<?= @base_url('Referrals'); ?>"><span><span class="menu-item-label">Referral Sites</span></span></a>
 								</li>
 
-								<!-- <li class="menu-item menu-item-has-children menu-no-link"><a href="<?= @base_url('Home/Resources/');?>"><span><span class="menu-item-label">Resources</span></span></a></li> -->
+								<li class="menu-item menu-item-has-children menu-no-link">
+									<a href="<?= @base_url('Home/Resources'); ?>"><span><span class="menu-item-label">Resources</span></span></a>
+								</li>
 
-								<li class="menu-item menu-item-has-children menu-no-link mega-menu mm-col-2 mega-menu-center is-mega-menu-centered"><a href="<?= @base_url('Home/Resources'); ?>"><span><span class="menu-item-label">Resources</span></span><i class="mobile-sub-menu-trigger apalodi-icon-right-circled-alt"></i></a>
+								<!-- <li class="menu-item menu-item-has-children menu-no-link mega-menu mm-col-2 mega-menu-center is-mega-menu-centered"><a href="<?= @base_url('Home/Resources'); ?>"><span><span class="menu-item-label">Resources</span></span><i class="mobile-sub-menu-trigger apalodi-icon-right-circled-alt"></i></a>
 									<ul class="sub-menu">
 									<li class="menu-item menu-item-has-children menu-no-link menu-no-label"><a><span></span><i class="mobile-sub-menu-trigger apalodi-icon-right-circled-alt"></i></a>
 									<ul class="sub-menu">
@@ -147,7 +149,7 @@
 									</ul>
 									</li>
 									</ul>
-									</li>
+									</li> -->
 
 
 

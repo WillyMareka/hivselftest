@@ -1,4 +1,4 @@
-<style type='text/css' media='all'>#page-heading{background-color:#7E7E7E;}#page-heading .bg-media-overlay{background-color:rgba(88,88,88,0.4);}.site-heading-container{min-height:50px}@media only screen and ( min-width : 660px ) {.site-heading-container{min-height:250px}}@media only screen and ( min-width : 1025px ) {.site-heading-container{min-height:350px}}</style>
+<!-- <style type='text/css' media='all'>#page-heading{background-color:#7E7E7E;}#page-heading .bg-media-overlay{background-color:rgba(88,88,88,0.4);}.site-heading-container{min-height:50px}@media only screen and ( min-width : 660px ) {.site-heading-container{min-height:250px}}@media only screen and ( min-width : 1025px ) {.site-heading-container{min-height:350px}}</style>
 <style type="text/css">.custom-css-1488413386618{padding-top:70px;padding-bottom:70px;background-color:#ffffff;}.custom-css-1487879989306{padding-top:70px;padding-bottom:70px;background-color:#28353d;}.custom-css-1488415167312{background-color:#ffffff;}.custom-css-1488415224798{padding-top:200px;}.custom-css-1488415160671{padding-top:100px;padding-right:12%;padding-bottom:100px;padding-left:12%;}</style>
 
 
@@ -197,4 +197,4 @@
 </div>
 </div>
 </div>
-</footer>
+</footer> -->

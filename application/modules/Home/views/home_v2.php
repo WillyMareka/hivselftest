@@ -42,7 +42,7 @@
 																		<h1 class="aslider-title aslider-animation-element is-animated" data-aslider-element-delay="200"><span data-swiper-parallax-percentage="-3" data-swiper-parallax="-40" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">SMS OR CALL THE HELPLINE ON 1190 FROM YOUR SAFARICOM LINE</span></h1>
 																		<p class="aslider-description aslider-animation-element is-animated" data-aslider-element-delay="300"><span data-swiper-parallax-percentage="-6" data-swiper-parallax="-81" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">ANY TIME FROM 8AM TO 8PM</span></p>
 																		<div class="aslider-buttons-wrapper aslider-animation-element is-animated" data-aslider-element-delay="400">
-																			<div class="aslider-buttons-parallax" data-swiper-parallax-percentage="-9" data-swiper-parallax="-121" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;"><a href="<?= @base_url('Home/videos');?>" class="button aslider-button aslider-button-primary"><span>Get Started</span></a></div>
+																			<div class="aslider-buttons-parallax" data-swiper-parallax-percentage="-9" data-swiper-parallax="-121" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;"><a href="<?= @base_url('Map');?>" class="button aslider-button aslider-button-primary"><span>Get a Kit</span></a></div>
 																		</div>
 																	</div>
 																</div>
@@ -88,11 +88,11 @@
 															<div class="aslider-content-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale(1, 1);">
 																<div class="aslider-content">
 																	<div class="aslider-content-inner">
-																		<h3 class="aslider-subtitle aslider-animation-element" data-aslider-element-delay="100"><span data-swiper-parallax-percentage="-0" data-swiper-parallax="0" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">The HIV Self Testing Kit</span></h3>
-																		<h1 class="aslider-title aslider-animation-element" data-aslider-element-delay="200"><span data-swiper-parallax-percentage="-3" data-swiper-parallax="-40" style="transform: translate3d(40px, 0px, 0px); transition-duration: 0ms;">Be Self Sure</span></h1>
-																		<p class="aslider-description aslider-animation-element" data-aslider-element-delay="300"><span data-swiper-parallax-percentage="-6" data-swiper-parallax="-81" style="transform: translate3d(81px, 0px, 0px); transition-duration: 0ms;"><a href='<?= @base_url("Outlets");?>'>Now available here</a></span></p>
+																		<h3 class="aslider-subtitle aslider-animation-element is-animated" data-aslider-element-delay="100"><span data-swiper-parallax-percentage="-0" data-swiper-parallax="0" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">GET IN TOUCH</span></h3>
+																		<h1 class="aslider-title aslider-animation-element is-animated" data-aslider-element-delay="200"><span data-swiper-parallax-percentage="-3" data-swiper-parallax="-40" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">SMS OR CALL THE HELPLINE ON 1190 FROM YOUR SAFARICOM LINE</span></h1>
+																		<p class="aslider-description aslider-animation-element is-animated" data-aslider-element-delay="300"><span data-swiper-parallax-percentage="-6" data-swiper-parallax="-81" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">ANY TIME FROM 8AM TO 8PM</span></p>
 																		<div class="aslider-buttons-wrapper aslider-animation-element is-animated" data-aslider-element-delay="400">
-																			<div class="aslider-buttons-parallax" data-swiper-parallax-percentage="-9" data-swiper-parallax="-121" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;"><a href="<?= @base_url('Home/videos');?>" class="button aslider-button aslider-button-primary"><span>Get Started</span></a></div>
+																			<div class="aslider-buttons-parallax" data-swiper-parallax-percentage="-9" data-swiper-parallax="-121" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;"><a href="<?= @base_url('Home/videos');?>" class="button aslider-button aslider-button-primary"><span>Conduct a Test</span></a></div>
 																		</div>
 																	</div>
 																</div>
@@ -134,11 +134,11 @@
 															<div class="aslider-content-wrapper" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale(1, 1);">
 																<div class="aslider-content">
 																	<div class="aslider-content-inner">
-																		<h3 class="aslider-subtitle aslider-animation-element" data-aslider-element-delay="100"><span data-swiper-parallax-percentage="-0" data-swiper-parallax="0" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">The HIV Self Testing Kit</span></h3>
-																		<h1 class="aslider-title aslider-animation-element" data-aslider-element-delay="200"><span data-swiper-parallax-percentage="-3" data-swiper-parallax="-40" style="transform: translate3d(40px, 0px, 0px); transition-duration: 0ms;">Be Self Sure</span></h1>
-																		<p class="aslider-description aslider-animation-element" data-aslider-element-delay="300"><span data-swiper-parallax-percentage="-6" data-swiper-parallax="-81" style="transform: translate3d(81px, 0px, 0px); transition-duration: 0ms;"><a href='<?= @base_url("Outlets");?>'>Now available here</a></span></p>
+																		<h3 class="aslider-subtitle aslider-animation-element is-animated" data-aslider-element-delay="100"><span data-swiper-parallax-percentage="-0" data-swiper-parallax="0" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">GET IN TOUCH</span></h3>
+																		<h1 class="aslider-title aslider-animation-element is-animated" data-aslider-element-delay="200"><span data-swiper-parallax-percentage="-3" data-swiper-parallax="-40" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">SMS OR CALL THE HELPLINE ON 1190 FROM YOUR SAFARICOM LINE</span></h1>
+																		<p class="aslider-description aslider-animation-element is-animated" data-aslider-element-delay="300"><span data-swiper-parallax-percentage="-6" data-swiper-parallax="-81" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">ANY TIME FROM 8AM TO 8PM</span></p>
 																		<div class="aslider-buttons-wrapper aslider-animation-element is-animated" data-aslider-element-delay="400">
-																			<div class="aslider-buttons-parallax" data-swiper-parallax-percentage="-9" data-swiper-parallax="-121" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;"><a href=""<?= @base_url('Home/videos');?>" class="button aslider-button aslider-button-primary"><span>Get Started</span></a></div>
+																			<div class="aslider-buttons-parallax" data-swiper-parallax-percentage="-9" data-swiper-parallax="-121" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;"><a href="<?= @base_url('Referrals');?>" class="button aslider-button aslider-button-primary"><span>Referral Sites</span></a></div>
 																		</div>
 																	</div>
 																</div>
