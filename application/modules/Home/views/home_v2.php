@@ -615,16 +615,16 @@
 
 
 
-<div data-animation="fadeInDown" class="cta-button-wrapper animate-element fixedactionbuttons" style="top: 76%;left:1%;z-index: 2;">
-	<a href="<?= @base_url('Map');?>" class="button button-secondary button-rounded button-size-md twitter-share-button"><span class="button-text">Get a Kit</span></a>
+<div data-animation="fadeInUp" class="cta-button-wrapper animate-element fixedactionbuttons" style="top: 76%;left:1%;z-index: 2;">
+	<a href="<?= @base_url('Map');?>" class="button button-secondary button-rounded button-size-md"><span class="button-text">Get a Kit</span></a>
 </div>
 
-<div data-animation="fadeInDown" class="cta-button-wrapper animate-element fixedactionbuttons" style="top: 83%;left:1%;z-index: 2;">
-	<a href="<?= @base_url('Home/videos/');?>" class="button button-secondary button-rounded button-size-md twitter-share-button"><span class="button-text">Conduct a Test</span></a>
+<div data-animation="fadeInUp" class="cta-button-wrapper animate-element fixedactionbuttons" style="top: 83%;left:1%;z-index: 2;">
+	<a href="<?= @base_url('Home/videos/');?>" class="button button-secondary button-rounded button-size-md"><span class="button-text">Conduct a Test</span></a>
 </div>
 
-<div data-animation="fadeInDown" class="cta-button-wrapper animate-element fixedactionbuttons" style="top: 90%;left:1%;z-index: 2;">
-	<a href="<?= @base_url('Home/Resources'); ?>" class="button button-secondary button-rounded button-size-md twitter-share-button"><span class="button-text">Self Test Launch</span></a>
+<div data-animation="fadeInUp" class="cta-button-wrapper animate-element fixedactionbuttons" style="top: 90%;left:1%;z-index: 2;">
+	<a href="<?= @base_url('Home/Resources'); ?>" class="button button-secondary button-rounded button-size-md"><span class="button-text">Self Test Launch</span></a>
 </div>
 
 
