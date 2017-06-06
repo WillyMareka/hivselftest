@@ -4,6 +4,7 @@
 	.custom-css-1488431315627{padding-bottom:90px;background-color:#fff}
 	.custom-css-1486607221785{padding-top:40px;padding-bottom:40px;background-color:#9373de}
 	.error{color: red;}
+	.fixedactionbuttons{position: fixed;}
 </style>
 <div id="content" class="site-content container">
 	<div id="primary" class="content-area">
@@ -611,3 +612,19 @@
 		</main>
 	</div>
 </div>
+
+
+
+<div data-animation="fadeInDown" class="cta-button-wrapper animate-element fixedactionbuttons" style="top: 76%;left:1%;z-index: 2;">
+	<a href="<?= @base_url('Map');?>" class="button button-secondary button-rounded button-size-md twitter-share-button"><span class="button-text">Get a Kit</span></a>
+</div>
+
+<div data-animation="fadeInDown" class="cta-button-wrapper animate-element fixedactionbuttons" style="top: 83%;left:1%;z-index: 2;">
+	<a href="<?= @base_url('Home/videos/');?>" class="button button-secondary button-rounded button-size-md twitter-share-button"><span class="button-text">Conduct a Test</span></a>
+</div>
+
+<div data-animation="fadeInDown" class="cta-button-wrapper animate-element fixedactionbuttons" style="top: 90%;left:1%;z-index: 2;">
+	<a href="<?= @base_url('Home/Resources'); ?>" class="button button-secondary button-rounded button-size-md twitter-share-button"><span class="button-text">Self Test Launch</span></a>
+</div>
+
+
