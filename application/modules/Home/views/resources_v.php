@@ -26,7 +26,7 @@
 
 
 
-<div  style="margin-top:30px;" class="content-element column-sm-12 separator">
+<div id="launch-videos" style="margin-top:30px;" class="content-element column-sm-12 separator">
 							<span class="separator-line separator-line-left"></span>
 							<div class="separator-content">
 								<h4 class="separator-title"><b>HIV SELF TEST LAUNCH</b></h4>
@@ -88,7 +88,7 @@
 				</div>
 
 
-				<div class="content-element column-sm-12 separator">
+				<div id="launch-links" class="content-element column-sm-12 separator">
 					<span class="separator-line separator-line-left"></span>
 					<div class="separator-content">
 						<h4 class="separator-title"><b>OTHER LAUNCH LINKS</b></h4>
@@ -156,7 +156,7 @@
 					</div>
 				</div>
 
-				<div class="content-element column-sm-12 separator">
+				<div id="launch-audios" class="content-element column-sm-12 separator">
 					<span class="separator-line separator-line-left"></span>
 					<div class="separator-content">
 						<h4 class="separator-title"><b>AUDIO LOGS</b></h4>

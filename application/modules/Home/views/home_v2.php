@@ -234,6 +234,98 @@
 						</div>
 					</div>
 				</div>
+
+
+
+				<div class="row-wrapper row-no-bottom-margin">
+
+					<div class="row-container container row-full-width row-no-padding">
+						<div class="row columns-equal-height columns-no-margins">
+
+							
+							<div class="column col-sm-4">
+								<div class="column-inner custom-css-1488041425297">
+								<a style="color:#FFC107;" href="<?= @base_url('Home/Resources#launch-videos');?>">
+									<div class="bg-media">
+										<div class="bg-media-container skrollable skrollable-between" data-bottom-top="transform: translate3d(0,0%,0)" data-top-bottom="transform: translate3d(0,55%,0)" style="transform: translate3d(0px, 6.25677%, 0px);">
+											<!-- <div style="background-image: url('<?= @$this->config->item('assets_url'); ?>img/banners/1200x1200/banner-center-1.png'); background-repeat: no-repeat; background-size: cover; background-position: center center;" class="preload-bg-image bg-image lazy-load-bg-img is-loaded is-ready" data-src="<?= @$this->config->item('assets_url'); ?>img/banners/1200x1200/banner-center-1.png"></div> width="560" height="315"-->
+											<iframe style="width:100%;height:100%;background-size: cover; background-position: center center;" src="https://www.youtube.com/embed/9I0_e1Igg2U" frameborder="0" allowfullscreen></iframe>
+										</div>
+										<div class="bg-media-overlay" style="background-color: rgba(147,115,222,0.85)"></div>
+									</div>
+									
+									<div class="column-content">
+										<div class="content-element heading-wrapper heading-align-left">
+											<h4 data-animation="fadeInUp" class="subheading animate-element animate-stagger" style="color:rgba(255,255,255,0.8)">Launch Videos</h4>
+											<h3 data-animation="fadeInUp" class="heading animate-element animate-stagger" style="color:#ffffff">Videos of the HIV Self Test Launch</h3>
+											<div data-animation="fadeInUp" class="separator heading-separator heading-below-separator animate-element animate-stagger">
+												<span class="separator-line heading-separator-line separator-line-left" style="background-color:rgba(255,255,255,0.5)"></span>
+												<span class="separator-line heading-separator-line separator-line-right" style="background-color:rgba(255,255,255,0.5)"></span>
+											</div>
+											<div data-animation="fadeInUp" class="heading-desc animate-element animate-stagger" style="color:#ffffff">Click Here to View Launch Videos</div>
+										</div>
+									</div>
+									</a>
+								</div>
+							</div>
+
+							<div class="column col-sm-4">
+								<div class="column-inner custom-css-1488041425297">
+								<a href="<?= @base_url('Home/Resources#launch-links');?>">
+									<div class="bg-media">
+										<div class="bg-media-container skrollable skrollable-between" data-bottom-top="transform: translate3d(0,0%,0)" data-top-bottom="transform: translate3d(0,55%,0)" style="transform: translate3d(0px, 6.25677%, 0px);">
+											<div style="width:100%;height:100%;background-image: url('<?= @$this->config->item('assets_url'); ?>img/resources/unaids_self_test.PNG'); background-repeat: no-repeat; background-size: cover; background-position: center center;" class="preload-bg-image bg-image lazy-load-bg-img is-loaded is-ready" data-src="<?= @$this->config->item('assets_url'); ?>img/resources/unaids_self_test.PNG"></div>
+										</div>
+										<div class="bg-media-overlay" style="background-color: rgba(254,223,0,0.85)"></div>
+									</div>
+									<div class="column-content">
+									
+										<div class="content-element heading-wrapper heading-align-left">
+											<h4 data-animation="fadeInUp" class="subheading animate-element animate-stagger" style="color:rgba(255,255,255,0.8)">Launch Links</h4>
+											<h3 data-animation="fadeInUp" class="heading animate-element animate-stagger" style="color: #ffffff;"><a target="blank" href="http://www.unaids.org/en/resources/presscentre/featurestories/2017/may/20170505_kenya">Links to news on the self test launch</a></h3>
+											<div data-animation="fadeInUp" class="separator heading-separator heading-below-separator animate-element animate-stagger">
+												<span class="separator-line heading-separator-line separator-line-left"></span>
+												<span class="separator-line heading-separator-line separator-line-right"></span>
+											</div>
+											<div data-animation="fadeInUp" class="heading-desc animate-element animate-stagger" style="color: #ffffff;">Click Here to View Launch Links</div>
+										</div>
+									</div>
+									</a>
+								</div>
+							</div>
+
+							<div class="column col-sm-4">
+								<div class="column-inner custom-css-1488041425297">
+								<a style="color:#FFC107;" href="<?= @base_url('Home/Resources#launch-audios');?>">
+									<div class="bg-media">
+										<div class="bg-media-container skrollable skrollable-between" data-bottom-top="transform: translate3d(0,0%,0)" data-top-bottom="transform: translate3d(0,55%,0)" style="transform: translate3d(0px, 6.25677%, 0px);">
+											<div style="width:100%;height:100%;background-image: url('<?= @$this->config->item('assets_url'); ?>audio/audio_icon.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;" class="preload-bg-image bg-image lazy-load-bg-img is-loaded is-ready" data-src="<?= @$this->config->item('assets_url'); ?>audio/audio_icon.jpg"></div>
+										</div>
+										<div class="bg-media-overlay" style="background-color: rgba(147,115,222,0.85)"></div>
+									</div>
+									<div class="column-content">
+										
+										<div class="content-element heading-wrapper heading-align-left">
+											<h4 data-animation="fadeInUp" class="subheading animate-element animate-stagger" style="color:rgba(255,255,255,0.8)">Launch Audios</h4>
+											<h3 data-animation="fadeInUp" class="heading animate-element animate-stagger" style="color:#ffffff">Audios from Radio Stations held on the Self Test Launch</h3>
+											<div data-animation="fadeInUp" class="separator heading-separator heading-below-separator animate-element animate-stagger">
+												<span class="separator-line heading-separator-line separator-line-left" style="background-color:rgba(255,255,255,0.5)"></span>
+												<span class="separator-line heading-separator-line separator-line-right" style="background-color:rgba(255,255,255,0.5)"></span>
+											</div>
+											<div data-animation="fadeInUp" class="heading-desc animate-element animate-stagger" style="color:#ffffff">Click Here to View Audios</div>
+										</div>
+									</div>
+									</a>
+								</div>
+							</div>
+
+
+						</div>
+					</div>
+				</div>
+
+
+
 				<div class="row-wrapper custom-css-1487878467842 row-no-bottom-margin">
 					<div class="row-container container">
 						<div class="row">
