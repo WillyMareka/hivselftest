@@ -69,6 +69,40 @@
 							</div>
 
 						</div>
+
+						<div class="row">
+
+
+
+							<div class="column col-sm-4">
+								<div class="column-inner">
+									<div class="column-content">
+										<div class="content-element video-wrapper">
+											<div class="iframe-wrapper iframe-video">
+												<iframe width="560" height="315" src="https://www.youtube.com/embed/XW_F7PhAHLI" frameborder="0" allowfullscreen></iframe>
+											</div>
+										</div>
+										<div><h3>Atomo Kiswahili</h3></div>
+									</div>
+								</div>
+							</div>
+
+
+							<div class="column col-sm-4">
+								<div class="column-inner">
+									<div class="column-content">
+										<div class="content-element video-wrapper">
+											<div class="iframe-wrapper iframe-video">
+												<iframe width="560" height="315" src="https://www.youtube.com/embed/wkbIkB0TO78" frameborder="0" allowfullscreen></iframe>
+											</div>
+										</div>
+										<div><h3>AtomoRapid HIV Steps of Use Training</h3></div>
+									</div>
+								</div>
+							</div>
+
+						</div>
+
 					</div>
 				</div>
 
