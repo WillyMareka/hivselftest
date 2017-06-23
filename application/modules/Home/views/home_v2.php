@@ -258,7 +258,7 @@
 									<div class="column-content">
 										<div class="content-element heading-wrapper heading-align-left">
 											<h4 data-animation="fadeInUp" class="subheading animate-element animate-stagger" style="color:rgba(255,255,255,0.8)">Launch Videos</h4>
-											<h3 data-animation="fadeInUp" class="heading animate-element animate-stagger" style="color:#ffffff">Videos of the HIV Self Test Launch</h3>
+											<h3 data-animation="fadeInUp" class="heading animate-element animate-stagger" style="color:#ffffff">Videos of the HIV Self Testing and Prep Launch</h3>
 											<div data-animation="fadeInUp" class="separator heading-separator heading-below-separator animate-element animate-stagger">
 												<span class="separator-line heading-separator-line separator-line-left" style="background-color:rgba(255,255,255,0.5)"></span>
 												<span class="separator-line heading-separator-line separator-line-right" style="background-color:rgba(255,255,255,0.5)"></span>
