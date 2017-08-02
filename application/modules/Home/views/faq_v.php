@@ -42,7 +42,7 @@
 <div class="column-inner custom-css-1488423931362">
 <div class="bg-media">
 <div class="bg-media-container" data-bottom-top="transform: translate3d(0,0%,0)" data-top-bottom="transform: translate3d(0,25%,0)">
-<div style="background-image:url(data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=);background-repeat:no-repeat;background-size: cover; background-position:center center;background-size: 700px 500px;margin-top: 30px;" class="preload-bg-image bg-image lazy-load-bg-img" data-src="<?= @$assets_url; ?>img/faq/selftest.png"></div>
+<div style="background-image:url(data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=);background-repeat:no-repeat;background-size: cover; background-position:center center;background-size: 700px 300px;margin-top: 30px;" class="preload-bg-image bg-image lazy-load-bg-img" data-src="<?= @$assets_url; ?>img/faq/atomo.png"></div>
 </div>
 </div>
 <div class="column-content">
@@ -121,6 +121,9 @@
 				<td>
 					<img src="<?= @$assets_url; ?>img/faq/quiki.png" alt="ORAQUICK" style="width:200px;height:50px;">
 				</td>
+				<td>
+					<img src="<?= @$assets_url; ?>img/faq/atomo.png" alt="Atomo" style="width:200px;height:50px;">
+				</td>
 			</tr>
 
 			<tr>
@@ -132,6 +135,9 @@
 				</td>
 				<td>
 					Saliva
+				</td>
+				<td>
+					Blood
 				</td>
 			</tr>
 
@@ -145,6 +151,9 @@
 				<td>
 					Oral swab
 				</td>
+				<td>
+					Finger prick
+				</td>
 			</tr>
 
 			<tr>
@@ -156,6 +165,9 @@
 				</td>
 				<td>
 					20 minutes
+				</td>
+				<td>
+					15 minutes
 				</td>
 			</tr>
 		</table>

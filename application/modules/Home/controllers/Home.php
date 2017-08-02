@@ -52,6 +52,7 @@ class Home extends MY_Controller {
 			$comments = $this->input->post('comments');
 
 			//$kits = implode(', ', $kit);
+			
 
 			
 
@@ -67,7 +68,7 @@ class Home extends MY_Controller {
 			$id = $this->db->insert_id();
 
 			$kits = $this->input->post('kit');
-			//echo "<pre>";print_r($kits);echo "</pre>";die();
+			// echo "<pre>";print_r($kits);echo "</pre>";die();
 
 			$kit_insert = [];
 			if($kits){

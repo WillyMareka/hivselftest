@@ -74,7 +74,7 @@
 
 
 
-							<div class="column col-sm-4">
+							<!-- <div class="column col-sm-4">
 								<div class="column-inner">
 									<div class="column-content">
 										<div class="content-element video-wrapper">
@@ -85,7 +85,7 @@
 										<div><h3>Atomo Kiswahili</h3></div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 
 
 							<div class="column col-sm-4">
@@ -101,8 +101,35 @@
 								</div>
 							</div>
 
-						</div>
+							<div class="column col-sm-4">
+								<div class="column-inner">
+									<div class="column-content">
+										<div class="content-element video-wrapper">
+											<div class="iframe-wrapper iframe-video">
+												<iframe width="560" height="315" src="https://www.youtube.com/embed/PydT-HBR6Dc" frameborder="0" allowfullscreen></iframe>
+											</div>
+										</div>
+										<div><h3>Atomo HIV Self Test English Africa</h3></div>
+									</div>
+								</div>
+							</div>
 
+							<div class="column col-sm-4">
+								<div class="column-inner">
+									<div class="column-content">
+										<div class="content-element video-wrapper">
+											<div class="iframe-wrapper iframe-video">
+												<iframe width="560" height="315" src="https://www.youtube.com/embed/XxjgAz9L9V0" frameborder="0" allowfullscreen></iframe>
+											</div>
+										</div>
+										<div><h3>Atomo HIV Self Test Kiswahili Africa</h3></div>
+									</div>
+								</div>
+							</div>
+
+							
+
+						</div>
 					</div>
 				</div>
 

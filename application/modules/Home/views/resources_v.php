@@ -101,6 +101,26 @@
 					<div class="row-container container">
 						<div class="row">
 
+                                                       <div class="column col-sm-3">
+								<div class="column-inner">
+									<div class="column-content">
+										<a target="blank" href="https://www.voanews.com/a/kenya-launches-hiv-self-testing-kit/3891667.html">
+											<div class="content-element team-wrapper team-align-left team-boxed">
+												<div class="image-thumbnail" style="padding-bottom:100%">
+												<img src="<?= @$this->config->item('assets_url'); ?>img/resources/Kenya_launches.PNG" class="preload-image team-image lazy-load-img is-loaded is-ready" alt="Government Launch" data-src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="viba-portfolio-thumbnail preload-image lazy-load-img" />
+												</div>
+												<div class="team-info">
+												<h5 class="team-name">Kenya Launches HIV Self-Testing Kit</h5>
+												</div>
+											</div>
+										</a>			
+									</div>
+								</div>
+							</div>
+
+
+
+
 							<div class="column col-sm-3">
 								<div class="column-inner">
 									<div class="column-content">
@@ -767,10 +787,10 @@
 	<div class="column-inner">
 	<div class="column-content">
 
-	<a target="blank" href="http://www.biolytical.com/">
+	<a target="blank" href="http://www.atomohivtest.com/">
 	<div class="content-element team-wrapper team-align-left team-boxed">
 	<div class="image-thumbnail" style="padding-bottom:100%">
-	<img style="margin-top:40%;height:30%;" src="<?= @$this->config->item('assets_url'); ?>img/resources/biolytical.jpg" class="preload-image team-image lazy-load-img is-loaded is-ready" alt="Manufacturer Websites" data-src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="viba-portfolio-thumbnail preload-image lazy-load-img">
+	<img style="margin-top:40%;height:30%;" src="<?= @$this->config->item('assets_url'); ?>img/resources/atomo.jpg" class="preload-image team-image lazy-load-img is-loaded is-ready" alt="Manufacturer Websites" data-src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" class="viba-portfolio-thumbnail preload-image lazy-load-img">
 	</div>
 	<div class="team-info">
 	<h5 class="team-name">Manufacturer Websites</h5></a>
